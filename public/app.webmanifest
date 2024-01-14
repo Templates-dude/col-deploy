@@ -1,7 +1,6 @@
 {
     "name": "Cobalt",
     "short_name": "Cobalt",
-    "description": "A new minimal clean proxy site, built for developers.",
     "icons": [
         {
             "src": "/logos/logo.svg",
