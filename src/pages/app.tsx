@@ -4,7 +4,7 @@ import { ObfuscateLayout } from "../components/obfuscate";
 
 import "../style/index.css";
 import "../navigationBackup";
-import "../proxy";
+import "../register";
 
 var Home = React.lazy(() => import("./home"));
 var InternalHome = React.lazy(() => import("./internal/home"));
